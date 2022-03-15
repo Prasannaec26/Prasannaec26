@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prasanna
 - 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Data analytics
-- 📫 How to reach me ...
+- 📫 How to reach me - prasannaec26@gmail.com
  
 
 <!---
