@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prasanna
 - 👀 I’m interested in Data analytics & Data science.
 - 🌱 I’m currently learning Data analytics at Edubridge
-- 📫 To reach me: Gmail - prasannaec26@gmail.com & Linkedin -  https://www.linkedin.com/in/g-prasanna-2b847a21b/
+- 📫 To reach me: Gmail - prasannaec123@gmail.com & Linkedin -  https://www.linkedin.com/in/g-prasanna-2b847a21b/
  
 
 <!---
